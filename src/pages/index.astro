@@ -1,0 +1,95 @@
+---
+import { getCollection } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const latestPosts = posts.slice(0, 6);
+const categories = [...new Set(posts.map((p) => p.data.category))];
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`${SITE_TITLE} — Manga & Book Reviews`} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- Hero Section -->
+			<section class="text-center py-8 mb-8">
+				<h1 class="text-3xl font-bold mb-4">Manga & Book Reviews from Japan</h1>
+				<p class="text-gray-500 text-lg max-w-2xl mx-auto">
+					Discover manga and books through the eyes of a Japanese reader.<br />
+					Cultural insights, honest reviews, and hidden gems you won't find elsewhere.
+				</p>
+			</section>
+
+			<!-- Categories -->
+			{categories.length > 0 && (
+				<section class="mb-10">
+					<div class="flex flex-wrap gap-3 justify-center">
+						{categories.map((cat) => (
+							<a
+								href={`/blog?category=${encodeURIComponent(cat)}`}
+								class="px-4 py-2 bg-white rounded-full text-sm text-gray-600 hover:bg-amber-50 hover:text-amber-600 shadow-sm no-underline transition"
+							>
+								{cat}
+							</a>
+						))}
+					</div>
+				</section>
+			)}
+
+			<!-- Latest Posts -->
+			{latestPosts.length > 0 ? (
+				<section>
+					<h2 class="text-xl font-bold mb-6 pb-2 border-b-2 border-amber-500">Latest Reviews</h2>
+					<div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+						{latestPosts.map((post) => (
+							<article class="bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition">
+								<a href={`/blog/${post.id}/`} class="no-underline">
+									<div class="p-4">
+										<span class="text-xs text-amber-600 bg-amber-50 px-2 py-1 rounded">
+											{post.data.category}
+										</span>
+										<h3 class="text-base font-bold mt-2 mb-1 text-gray-800 leading-snug">
+											{post.data.title}
+										</h3>
+										<p class="text-sm text-gray-500 mb-2 line-clamp-2">{post.data.description}</p>
+										<div class="flex items-center gap-3">
+											<time class="text-xs text-gray-400">
+												<FormattedDate date={post.data.pubDate} />
+											</time>
+											{post.data.rating && (
+												<span class="text-xs font-bold text-amber-600">{post.data.rating}/10</span>
+											)}
+										</div>
+									</div>
+								</a>
+							</article>
+						))}
+					</div>
+					<div class="text-center mt-8">
+						<a
+							href="/blog"
+							class="inline-block px-6 py-3 bg-amber-600 text-white rounded-lg no-underline hover:bg-amber-700 transition"
+						>
+							View All Reviews
+						</a>
+					</div>
+				</section>
+			) : (
+				<section class="text-center py-12">
+					<p class="text-gray-500 text-lg">Reviews coming soon! Stay tuned.</p>
+				</section>
+			)}
+		</main>
+		<Footer />
+	</body>
+</html>

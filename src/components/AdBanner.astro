@@ -1,0 +1,21 @@
+---
+interface Props {
+	position?: 'top' | 'middle' | 'bottom' | 'sidebar';
+}
+
+const { position = 'middle' } = Astro.props;
+---
+
+<!-- AdSense: Uncomment after approval (Phase 3+) -->
+<!-- TODO: Replace AD_CLIENT_ID and AD_SLOT_ID with actual values -->
+<!--
+<div class={`ad-banner ad-${position} my-6 text-center`} data-ad-position={position}>
+	<ins class="adsbygoogle"
+		style="display:block"
+		data-ad-client="AD_CLIENT_ID"
+		data-ad-slot="AD_SLOT_ID"
+		data-ad-format="auto"
+		data-full-width-responsive="true"></ins>
+	<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+-->

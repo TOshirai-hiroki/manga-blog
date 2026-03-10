@@ -1,0 +1,46 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`About | ${SITE_TITLE}`} description="About Tokyo Manga Shelf — manga and book reviews from a Japanese perspective." />
+	</head>
+	<body>
+		<Header />
+		<main class="max-w-3xl mx-auto">
+			<h1 class="text-2xl font-bold mb-6">About</h1>
+
+			<div class="prose bg-white p-6 rounded-lg shadow-sm">
+				<h2>What is Tokyo Manga Shelf?</h2>
+				<p>Tokyo Manga Shelf is a review site dedicated to manga and books, written from the perspective of a Japanese reader living in Japan. We provide cultural insights and context that you simply won't find in Western reviews.</p>
+
+				<h2>What Makes Us Different</h2>
+				<ul>
+					<li><strong>Japanese Cultural Perspective</strong> — We explain the cultural nuances, historical references, and social context that are second nature to Japanese readers but often missed by international audiences.</li>
+					<li><strong>Honest Reviews</strong> — Every title is reviewed based on personal reading experience, not press releases or summaries.</li>
+					<li><strong>Hidden Gems</strong> — Beyond mainstream titles, we cover lesser-known manga and books that deserve international attention.</li>
+					<li><strong>Multilingual</strong> — Reviews are available in English, with French and other languages coming soon.</li>
+				</ul>
+
+				<h2>What We Review</h2>
+				<ul>
+					<li>Manga (the main focus)</li>
+					<li>Japanese literature and novels</li>
+					<li>Cultural context articles — exploring the real Japan behind the stories</li>
+				</ul>
+
+				<h2>About the Reviewer</h2>
+				<p>A lifelong manga and book enthusiast based in Japan, sharing honest opinions and the cultural stories behind each title. The goal is to bridge the gap between Japanese and international readers.</p>
+
+				<h2>Contact</h2>
+				<p>Have questions, suggestions, or review requests? Visit the <a href="/contact">contact page</a>.</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>

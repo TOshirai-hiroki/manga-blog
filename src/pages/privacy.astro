@@ -1,0 +1,51 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Privacy Policy | ${SITE_TITLE}`} description="Privacy policy for Tokyo Manga Shelf." />
+	</head>
+	<body>
+		<Header />
+		<main class="max-w-3xl mx-auto">
+			<h1 class="text-2xl font-bold mb-6">Privacy Policy</h1>
+
+			<div class="prose bg-white p-6 rounded-lg shadow-sm">
+				<p>Tokyo Manga Shelf ("this site") is committed to protecting your privacy. This policy outlines how we collect, use, and protect your information.</p>
+
+				<h2>Personal Information</h2>
+				<p>We may collect personal information such as your name and email address when you use our contact form. This information is used solely to respond to your inquiries and will not be shared with third parties.</p>
+
+				<h2>Analytics</h2>
+				<p>This site uses Google Analytics to understand how visitors interact with our content. Google Analytics collects data using cookies. This data is anonymized and does not personally identify you. You can opt out of Google Analytics by installing the <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">Google Analytics Opt-out Browser Add-on</a>.</p>
+
+				<h2>Advertising</h2>
+				<p>This site may display advertisements through Google AdSense. These ads may use cookies to serve content based on your browsing history. No personally identifiable information is collected through these ads.</p>
+
+				<h2>Affiliate Programs</h2>
+				<p>As an Amazon Associate, this site earns from qualifying purchases. We participate in the Amazon Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.</p>
+				<p>Affiliate links are clearly marked. The presence of affiliate links does not influence our reviews or recommendations.</p>
+
+				<h2>Cookies</h2>
+				<p>This site uses cookies for analytics and advertising purposes as described above. By using this site, you consent to the use of cookies in accordance with this policy.</p>
+
+				<h2>Disclaimer</h2>
+				<p>The information provided on this site is for general informational purposes only. We make no warranties about the completeness, reliability, or accuracy of this information. Any action you take based on the information on this site is strictly at your own risk.</p>
+
+				<h2>Copyright</h2>
+				<p>All original content on this site is protected by copyright. Unauthorized reproduction is prohibited. Manga cover images used on this site are sourced through Amazon's affiliate program for review purposes.</p>
+
+				<h2>Changes to This Policy</h2>
+				<p>We may update this privacy policy from time to time. Any changes will be posted on this page.</p>
+
+				<p class="text-sm text-gray-400 mt-8">Effective date: March 2026</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
