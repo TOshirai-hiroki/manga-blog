@@ -52,13 +52,10 @@ const { title, description, image, type = 'website' } = Astro.props;
 {image && <meta property="twitter:image" content={new URL(image, Astro.url)} />}
 
 <!-- Google Analytics (GA4) -->
-<!-- TODO: Replace GA4_MEASUREMENT_ID with actual ID after creating GA4 property -->
-<!--
-<script async src="https://www.googletagmanager.com/gtag/js?id=GA4_MEASUREMENT_ID"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GRP2NZ3SYG"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'GA4_MEASUREMENT_ID');
+  gtag('config', 'G-GRP2NZ3SYG');
 </script>
--->
