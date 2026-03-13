@@ -2,20 +2,33 @@
 interface Props {
 	href: string;
 	text: string;
+	asin: string;
 	badge?: string;
 }
 
-const { href, text, badge = 'View on Amazon' } = Astro.props;
+const { href, text, asin, badge = 'View on Amazon' } = Astro.props;
+const imageUrl = `https://m.media-amazon.com/images/P/${asin}.01._SCLZZZZZZZ_SX200_.jpg`;
 ---
 
-<div class="affiliate-link my-4 p-4 bg-amber-50 border border-amber-200 rounded-lg text-center">
+<div class="affiliate-link my-8 p-5 bg-amber-50 border border-amber-200 rounded-lg">
 	<a
 		href={href}
 		target="_blank"
 		rel="nofollow noopener sponsored"
-		class="inline-block px-6 py-3 bg-amber-600 !text-white rounded-lg !no-underline hover:bg-amber-700 hover:!text-white transition font-bold"
+		class="flex items-center gap-5 !no-underline hover:!no-underline"
 	>
-		{text} — {badge}
+		<img
+			src={imageUrl}
+			alt={text}
+			class="w-24 h-auto rounded shadow-md flex-shrink-0"
+			loading="lazy"
+		/>
+		<div class="flex flex-col gap-2">
+			<span class="text-base font-bold text-gray-800">{text}</span>
+			<span class="inline-block w-fit px-5 py-2 bg-amber-600 !text-white rounded-lg hover:bg-amber-700 transition font-bold text-sm">
+				{badge}
+			</span>
+		</div>
 	</a>
-	<p class="text-xs text-gray-400 mt-2 mb-0">* As an Amazon Associate, I earn from qualifying purchases.</p>
+	<p class="text-xs text-gray-400 mt-3 mb-0">* As an Amazon Associate, I earn from qualifying purchases.</p>
 </div>
