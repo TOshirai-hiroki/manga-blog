@@ -16,6 +16,8 @@ const blog = defineCollection({
 			rating: z.number().min(1).max(10).optional(),
 			mangaAuthor: z.string().optional(),
 			mangaTitleJa: z.string().optional(),
+			amazonASIN: z.string().optional(),
+			amazonTitle: z.string().optional(),
 		}),
 });
 
