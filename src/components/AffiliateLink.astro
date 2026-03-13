@@ -13,7 +13,7 @@ const { href, text, badge = 'View on Amazon' } = Astro.props;
 		href={href}
 		target="_blank"
 		rel="nofollow noopener sponsored"
-		class="inline-block px-6 py-3 bg-amber-600 text-white rounded-lg no-underline hover:bg-amber-700 transition font-bold"
+		class="inline-block px-6 py-3 bg-amber-600 !text-white rounded-lg !no-underline hover:bg-amber-700 hover:!text-white transition font-bold"
 	>
 		{text} — {badge}
 	</a>
