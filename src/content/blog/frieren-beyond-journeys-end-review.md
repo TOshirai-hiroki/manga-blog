@@ -8,8 +8,8 @@ affiliate: true
 rating: 10
 mangaAuthor: 'Kanehito Yamada (story), Tsukasa Abe (art)'
 mangaTitleJa: '葬送のフリーレン'
-amazonASIN: '1974736172'
-amazonTitle: 'Frieren: Beyond Journeys End, Vol. 1'
+amazonASIN: '1974725766'
+amazonTitle: "Frieren: Beyond Journey's End, Vol. 1"
 ---
 
 ## The Hero Wins on Page One

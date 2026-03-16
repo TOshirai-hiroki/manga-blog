@@ -1,9 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
+import { Image } from 'astro:assets';
 import BaseHead from '../../components/BaseHead.astro';
 import Footer from '../../components/Footer.astro';
 import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
+import OgDefault from '../../assets/og-default.png';
 import { SITE_TITLE } from '../../consts';
 
 const posts = (await getCollection('blog')).sort(
@@ -38,22 +40,38 @@ const categories = ['All', ...new Set(posts.map((p) => p.data.category))];
 			</div>
 
 			<!-- Post Grid -->
-			<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6" id="post-grid">
+			<div class="grid grid-cols-1 md:grid-cols-2 gap-4" id="post-grid">
 				{posts.map((post) => (
 					<article
 						class="post-card bg-white rounded-lg shadow-sm overflow-hidden hover:shadow-md transition"
 						data-category={post.data.category}
 					>
-						<a href={`/blog/${post.id}/`} class="no-underline">
-							<div class="p-4">
-								<span class="text-xs text-amber-600 bg-amber-50 px-2 py-1 rounded">
+						<a href={`/blog/${post.id}/`} class="no-underline flex gap-4 h-full">
+							<div class="w-20 min-h-[112px] bg-gray-100 flex-shrink-0 flex items-center justify-center overflow-hidden">
+								{post.data.amazonASIN ? (
+									<img
+										src={`https://m.media-amazon.com/images/P/${post.data.amazonASIN}.jpg`}
+										alt={post.data.title}
+										class="h-full w-full object-cover"
+										loading="lazy"
+									/>
+								) : (
+									<Image
+										src={OgDefault}
+										alt={post.data.title}
+										class="w-full h-full object-cover"
+										widths={[96]}
+									/>
+								)}
+							</div>
+							<div class="py-3 pr-4 flex-1 flex flex-col">
+								<span class="text-xs text-amber-600 bg-amber-50 px-2 py-0.5 rounded self-start">
 									{post.data.category}
 								</span>
-								<h2 class="text-base font-bold mt-2 mb-1 text-gray-800 leading-snug">
+								<h2 class="text-sm font-bold mt-1 mb-1 text-gray-800 leading-snug line-clamp-2">
 									{post.data.title}
 								</h2>
-								<p class="text-sm text-gray-500 mb-2 line-clamp-2">{post.data.description}</p>
-								<div class="flex items-center gap-3">
+								<div class="flex items-center gap-3 mt-auto">
 									<time class="text-xs text-gray-400">
 										<FormattedDate date={post.data.pubDate} />
 									</time>
