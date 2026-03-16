@@ -3,15 +3,36 @@ import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
 ---
 
-<header class="bg-white shadow-sm sticky top-0 z-50">
+<header class="sticky top-0 z-50 header-gradient shadow-md">
 	<nav class="max-w-[960px] mx-auto flex items-center justify-between px-4 py-3">
 		<h2 class="m-0 text-lg font-bold">
-			<a href="/" class="text-amber-600 no-underline hover:no-underline">{SITE_TITLE}</a>
+			<a href="/" class="flex items-center gap-2 text-white no-underline hover:no-underline">
+				<img src="/images/logo-icon.png" alt="" class="w-8 h-8 rounded" />
+				<span>{SITE_TITLE}</span>
+			</a>
 		</h2>
-		<div class="flex gap-4 text-sm">
+		<div class="flex gap-5 text-sm">
 			<HeaderLink href="/">Home</HeaderLink>
 			<HeaderLink href="/blog">Reviews</HeaderLink>
 			<HeaderLink href="/about">About</HeaderLink>
 		</div>
 	</nav>
 </header>
+
+<style>
+	.header-gradient {
+		background: linear-gradient(135deg, #92400e 0%, #d97706 50%, #f59e0b 100%);
+	}
+	nav a, nav :global(a) {
+		color: white !important;
+	}
+	nav :global(a:hover) {
+		color: #fef3c7 !important;
+		text-decoration: none;
+	}
+	nav :global(a.active) {
+		color: #fef3c7 !important;
+		text-decoration: underline;
+		text-underline-offset: 4px;
+	}
+</style>
