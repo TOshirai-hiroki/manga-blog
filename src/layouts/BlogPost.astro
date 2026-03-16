@@ -15,7 +15,7 @@ const { title, description, pubDate, updatedDate, heroImage, category, tags, rat
 
 <html lang="en">
 	<head>
-		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} type="article" />
+		<BaseHead title={`${title} | ${SITE_TITLE}`} description={description} image={heroImage} type="article" />
 		<script
 			type="application/ld+json"
 			set:html={JSON.stringify({
