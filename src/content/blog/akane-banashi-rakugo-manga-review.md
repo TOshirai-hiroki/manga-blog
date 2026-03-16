@@ -8,7 +8,7 @@ affiliate: true
 rating: 9
 mangaAuthor: 'Yuki Suenaga (story), Takamasa Moue (art)'
 mangaTitleJa: 'あかね噺'
-amazonASIN: '1974743500'
+amazonASIN: '1974736482'
 amazonTitle: 'Akane-banashi, Vol. 1'
 ---
 

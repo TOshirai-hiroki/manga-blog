@@ -8,7 +8,7 @@ affiliate: true
 rating: 10
 mangaAuthor: 'Hirohiko Araki'
 mangaTitleJa: 'スティール・ボール・ラン'
-amazonASIN: '1779530234'
+amazonASIN: '1974752542'
 amazonTitle: 'Jojos Bizarre Adventure Part 7 Steel Ball Run Vol. 1'
 ---
 

@@ -29,6 +29,8 @@ One Piece entering its final saga is the manga event of the decade. Oda is resol
 
 **Commitment level**: 1,100+ chapters. Daunting, but volume bingeing transforms the experience. Start with East Blue, and if Arlong Park does not hook you, this may not be your series.
 
+[→ Buy on Amazon](https://www.amazon.com/dp/1569319014?tag=tokyomangashe-20)
+
 ### 2. Berserk — Kentaro Miura / Studio Gaga
 
 **Status**: Ongoing (continued by Studio Gaga) | **Genre**: Dark Fantasy | **Start**: 1989
@@ -40,6 +42,8 @@ The greatest dark fantasy manga continues under the careful stewardship of Studi
 **The Japanese context**: Berserk draws from Buddhist concepts of suffering and attachment, and samurai ethics of endurance and duty, in ways that most English-language reviews have never fully explored. It is a profoundly Japanese philosophical work in Western fantasy clothing. [Read our full review](/blog/berserk-buddhist-samurai-philosophy)
 
 **Commitment level**: 42 volumes and counting. The early Golden Age arc is the hook — if you are not invested by the Eclipse, nothing will change your mind.
+
+[→ Buy on Amazon](https://www.amazon.com/dp/1506711987?tag=tokyomangashe-20)
 
 ---
 
@@ -57,6 +61,8 @@ Part 2 takes a dramatically different approach from Part 1's relentless escalati
 
 **Commitment level**: ~180 chapters total across both parts. Part 1 is a self-contained masterpiece. Part 2 is ongoing.
 
+[→ Buy on Amazon](https://www.amazon.com/dp/1974709930?tag=tokyomangashe-20)
+
 ### 4. Frieren: Beyond Journey's End — Kanehito Yamada / Tsukasa Abe
 
 **Status**: Ongoing | **Genre**: Fantasy, Drama | **Start**: 2020
@@ -68,6 +74,8 @@ Frieren follows an elven mage who, after the hero's party defeats the Demon King
 **The Japanese context**: Frieren embodies "mono no aware" (もののあわれ) — the bittersweet awareness of impermanence that is central to Japanese aesthetics. Every interaction with mortal beings is colored by the knowledge that she will outlive them by centuries. Japanese readers, raised in a culture that values the beauty of transience (cherry blossoms, autumn leaves), connect with this at a visceral level.
 
 **Commitment level**: ~130 chapters. Individual chapters are short. You can catch up in a weekend.
+
+[→ Buy on Amazon](https://www.amazon.com/dp/1974736172?tag=tokyomangashe-20)
 
 ---
 
@@ -85,6 +93,8 @@ Dandadan is the most energetic manga being published. It blends Japanese folklor
 
 **Commitment level**: ~170 chapters. Fast-paced — you will read it faster than almost any other manga on this list.
 
+[→ Buy on Amazon](https://www.amazon.com/dp/1974734633?tag=tokyomangashe-20)
+
 ### 6. Sakamoto Days — Yuto Suzuki
 
 **Status**: Ongoing | **Genre**: Action, Comedy | **Start**: 2020
@@ -96,6 +106,8 @@ The world's greatest assassin retired to run a convenience store. Now his past i
 **The Japanese context**: Beneath the entertainment lies a quietly radical argument about the value of ordinary life — that choosing a convenience store over being the world's greatest assassin is not weakness but the ultimate expression of strength. This resonates with a Japanese generation redefining "ikigai" (reason for living) around personal fulfillment rather than professional achievement. [Read our full review](/blog/sakamoto-days-review)
 
 **Commitment level**: ~190 chapters. Pure fun from chapter one.
+
+[→ Buy on Amazon](https://www.amazon.com/dp/1974728943?tag=tokyomangashe-20)
 
 ---
 
@@ -113,6 +125,8 @@ A pharmacist solving mysteries in an ancient imperial court. No battles, no supe
 
 **Commitment level**: ~100 chapters in the manga adaptation. The light novel is further ahead for those who want more.
 
+[→ Buy on Amazon](https://www.amazon.com/dp/1646090705?tag=tokyomangashe-20)
+
 ### 8. Witch Hat Atelier — Kamome Shirahama
 
 **Status**: Ongoing | **Genre**: Fantasy, Adventure | **Start**: 2016
@@ -124,6 +138,8 @@ The most beautiful manga being published today. Shirahama's artwork — every pa
 **The Japanese context**: The connection between magic and drawing resonates with the Japanese cultural reverence for craftsmanship. In Japan, the act of creation — calligraphy, pottery, or drawing — is considered a spiritual practice. Witch Hat Atelier treats magic with the same respect, elevating art from skill to philosophy.
 
 **Commitment level**: ~80 chapters. Deliberately paced — this is manga you savor, not binge.
+
+[→ Buy on Amazon](https://www.amazon.com/dp/163236770X?tag=tokyomangashe-20)
 
 ---
 
@@ -141,6 +157,8 @@ Blue Box has quietly become one of the best romance manga in years. Set in a spo
 
 **Commitment level**: ~170 chapters. Light, warm reading.
 
+[→ Buy on Amazon](https://www.amazon.com/dp/1974734625?tag=tokyomangashe-20)
+
 ### 10. Gachiakuta — Kei Urana
 
 **Status**: Ongoing | **Genre**: Action, Fantasy | **Start**: 2022
@@ -152,6 +170,8 @@ In a world divided between a floating city and a garbage dump below, a boy false
 **The Japanese context**: The rigid separation between the clean city above and the polluted dump below mirrors discussions about inequality in Japanese society — a topic that Japanese culture historically avoids addressing directly. Gachiakuta uses fantasy to say what realism cannot.
 
 **Commitment level**: ~80 chapters. The shortest commitment on this list.
+
+[→ Buy on Amazon](https://www.amazon.com/dp/B0C4XW16QN?tag=tokyomangashe-20)
 
 ---
 

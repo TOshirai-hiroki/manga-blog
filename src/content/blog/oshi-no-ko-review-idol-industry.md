@@ -8,7 +8,7 @@ affiliate: true
 rating: 9
 mangaAuthor: 'Aka Akasaka (story), Mengo Yokoyari (art)'
 mangaTitleJa: '推しの子'
-amazonASIN: '1975369459'
+amazonASIN: '1975363175'
 amazonTitle: 'Oshi no Ko, Vol. 1'
 ---
 

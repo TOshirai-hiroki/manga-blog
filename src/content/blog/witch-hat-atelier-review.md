@@ -8,7 +8,7 @@ affiliate: true
 rating: 9
 mangaAuthor: 'Kamome Shirahama'
 mangaTitleJa: 'とんがり帽子のアトリエ'
-amazonASIN: '1632367270'
+amazonASIN: '163236770X'
 amazonTitle: 'Witch Hat Atelier, Vol. 1'
 ---
 

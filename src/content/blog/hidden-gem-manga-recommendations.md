@@ -33,6 +33,8 @@ Japanese readers have a deep appetite for "rekishi mono" (歴史もの, historic
 
 **Rating: 9/10**
 
+[→ Buy on Amazon](https://www.amazon.com/dp/1974759210?tag=tokyomangashe-20)
+
 ---
 
 ## 2. Oshi no Ko — Aka Akasaka / Mengo Yokoyari
@@ -50,6 +52,8 @@ Aka Akasaka, known for the lighter Kaguya-sama: Love is War, shows remarkable ra
 **Start here**: The first chapter (45 pages) is the hook. If it does not grab you, the series will not change your mind — but it grabs almost everyone.
 
 **Rating: 8/10**
+
+[→ Buy on Amazon](https://www.amazon.com/dp/1975363175?tag=tokyomangashe-20)
 
 ---
 
@@ -69,6 +73,8 @@ But the real genius is how the comedy masks the worldbuilding. By the final volu
 
 **Rating: 9/10**
 
+[→ Buy on Amazon](https://www.amazon.com/dp/0316471852?tag=tokyomangashe-20)
+
 ---
 
 ## 4. Sousou no Frieren (Frieren: Beyond Journey's End) — The Manga Experience
@@ -86,6 +92,8 @@ The art by Tsukasa Abe uses white space and minimalist compositions that create 
 The manga is also a quiet deconstruction of the RPG fantasy genre that dominates Japanese popular culture. By focusing on what happens after the quest ends, it asks: what was it all for? Did the relationships formed along the way matter? These are questions that resonate with anyone who has reached the end of something — a career, a relationship, a phase of life — and wondered what comes next.
 
 **Rating: 9/10**
+
+[→ Buy on Amazon](https://www.amazon.com/dp/1974736172?tag=tokyomangashe-20)
 
 ---
 
@@ -105,6 +113,8 @@ The series handles sensitive topics — social anxiety, gender identity, the pre
 
 **Rating: 8/10**
 
+[→ Buy on Amazon](https://www.amazon.com/dp/1648275885?tag=tokyomangashe-20)
+
 ---
 
 ## 6. Tsuki ga Michibiku Isekai Douchuu (Tsukimichi: Moonlit Fantasy) — Kei Azumi / Kotora Kino
@@ -120,6 +130,8 @@ The series handles sensitive topics — social anxiety, gender identity, the pre
 **The cultural layer**: The "rejected by the system, succeeds anyway" narrative resonates with Japanese readers who feel that institutional structures — corporate, educational, social — do not value them. Makoto's success outside the established order is wish fulfillment, but it is specifically Japanese wish fulfillment: the fantasy of proving that the system that rejected you was wrong.
 
 **Rating: 7/10**
+
+[→ Buy on Amazon](https://www.amazon.com/dp/B0CCVGL5NZ?tag=tokyomangashe-20)
 
 ---
 
@@ -138,6 +150,8 @@ The series also explores themes of forbidden knowledge and institutional gatekee
 **Start here**: The first chapter, which reveals the truth about magic, is one of the most effective opening chapters in recent manga.
 
 **Rating: 9/10**
+
+[→ Buy on Amazon](https://www.amazon.com/dp/163236770X?tag=tokyomangashe-20)
 
 ---
 

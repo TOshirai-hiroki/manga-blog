@@ -4,7 +4,7 @@ description: 'The most misunderstood concept in manga: demographic labels are no
 pubDate: '2026-03-09'
 category: 'Cultural Analysis'
 tags: ['manga guide', 'shonen', 'seinen', 'shojo', 'josei', 'demographics', 'beginner']
-affiliate: false
+affiliate: true
 ---
 
 ## The Biggest Misconception in Manga
@@ -129,3 +129,28 @@ Manga demographics are a publishing classification system, not a genre taxonomy.
 Stop asking "what demographic is this?" Start asking "is this good?" The answer will lead you to manga you never would have found otherwise — and you will wonder how you ever let a marketing label decide what stories you were allowed to enjoy.
 
 *What manga surprised you the most when you learned its demographic classification? For many international readers, discovering that Yotsuba&! is seinen — published for adult men — is the moment the entire system clicks into place. What was your moment?*
+
+---
+
+## Manga Referenced in This Article
+
+- [Death Note, Vol. 1](https://www.amazon.com/dp/1421501686?tag=tokyomangashe-20)
+- [The Promised Neverland, Vol. 1](https://www.amazon.com/dp/1421597128?tag=tokyomangashe-20)
+- [Blue Box, Vol. 1](https://www.amazon.com/dp/1974734625?tag=tokyomangashe-20)
+- [Dr. Stone, Vol. 1](https://www.amazon.com/dp/1974702618?tag=tokyomangashe-20)
+- [Spy x Family, Vol. 1](https://www.amazon.com/dp/1974715469?tag=tokyomangashe-20)
+- [Yotsuba&!, Vol. 1](https://www.amazon.com/dp/0316073873?tag=tokyomangashe-20)
+- [March Comes in Like a Lion, Vol. 1](https://www.amazon.com/dp/1634428129?tag=tokyomangashe-20)
+- [One Piece, Vol. 1](https://www.amazon.com/dp/1569319014?tag=tokyomangashe-20)
+- [Jujutsu Kaisen, Vol. 1](https://www.amazon.com/dp/1974710025?tag=tokyomangashe-20)
+- [Blue Lock, Vol. 1](https://www.amazon.com/dp/1646516540?tag=tokyomangashe-20)
+- [Sakamoto Days, Vol. 1](https://www.amazon.com/dp/1974728943?tag=tokyomangashe-20)
+- [Chainsaw Man, Vol. 1](https://www.amazon.com/dp/1974709930?tag=tokyomangashe-20)
+- [Dandadan, Vol. 1](https://www.amazon.com/dp/1974734633?tag=tokyomangashe-20)
+- [Frieren, Vol. 1](https://www.amazon.com/dp/1974736172?tag=tokyomangashe-20)
+- [The Apothecary Diaries, Vol. 1](https://www.amazon.com/dp/1646090705?tag=tokyomangashe-20)
+- [Kingdom, Vol. 1](https://www.amazon.com/dp/1974759210?tag=tokyomangashe-20)
+- [Oshi no Ko, Vol. 1](https://www.amazon.com/dp/1975363175?tag=tokyomangashe-20)
+- [Golden Kamuy, Vol. 1](https://www.amazon.com/dp/1421594889?tag=tokyomangashe-20)
+- [Vinland Saga, Vol. 1](https://www.amazon.com/dp/1612624200?tag=tokyomangashe-20)
+- [Case Closed (Detective Conan), Vol. 1](https://www.amazon.com/dp/1591163277?tag=tokyomangashe-20)

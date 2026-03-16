@@ -4,7 +4,7 @@ description: "Reading manga in Japan is a completely different experience from r
 pubDate: '2026-03-08'
 category: 'Cultural Analysis'
 tags: ['manga culture', 'Japan', 'translation', 'reading culture', 'cultural analysis']
-affiliate: false
+affiliate: true
 ---
 
 ## You Are Reading a Different Book
@@ -117,3 +117,13 @@ You do not need to learn Japanese to read manga more deeply (though even basic J
 The gap between reading manga in Japanese and reading it in translation will always exist. But awareness of that gap — knowing what might be happening in the original that the translation cannot capture — makes you a more thoughtful, more appreciative reader. And that awareness alone is worth the effort.
 
 *What has been your experience with the translation gap? Have you ever read a manga in Japanese and English and noticed something the translation could not capture? Or has a good translation note ever completely changed your understanding of a scene? I would love to hear your stories.*
+
+---
+
+## Manga Referenced in This Article
+
+- [Chainsaw Man, Vol. 1](https://www.amazon.com/dp/1974709930?tag=tokyomangashe-20)
+- [Jujutsu Kaisen, Vol. 1](https://www.amazon.com/dp/1974710025?tag=tokyomangashe-20)
+- [One Piece, Vol. 1](https://www.amazon.com/dp/1569319014?tag=tokyomangashe-20)
+- [Dandadan, Vol. 1](https://www.amazon.com/dp/1974734633?tag=tokyomangashe-20)
+- [Demon Slayer, Vol. 1](https://www.amazon.com/dp/1974700526?tag=tokyomangashe-20)
