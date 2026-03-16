@@ -1,0 +1,63 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Terms of Service | ${SITE_TITLE}`} description="Terms of Service for Tokyo Manga Shelf. Please read before using our site." />
+	</head>
+	<body>
+		<Header />
+		<main class="max-w-3xl mx-auto">
+			<h1 class="text-2xl font-bold mb-6">Terms of Service</h1>
+
+			<div class="prose bg-white p-6 rounded-lg shadow-sm">
+				<p>These Terms of Service ("Terms") govern your use of Tokyo Manga Shelf ("the Site"). By accessing or using the Site, you agree to be bound by these Terms.</p>
+
+				<h2>1. Scope</h2>
+				<p>These Terms apply to all users who access or use the Site.</p>
+
+				<h2>2. Use of Content</h2>
+				<p>All articles, images, and other content published on the Site are the intellectual property of the Site operator. Unauthorized reproduction, redistribution, or commercial use of any content is prohibited, except for personal viewing purposes.</p>
+				<p>You are welcome to share or reference our articles on social media. When doing so, please credit the Site by including the site name and URL.</p>
+
+				<h2>3. Accuracy of Information</h2>
+				<p>We strive to provide accurate information on the Site. However, we do not guarantee that all information is current or error-free.</p>
+				<p>Product details, availability, and pricing may change frequently. Please verify the latest information on the respective official websites.</p>
+
+				<h2>4. Disclaimer</h2>
+				<ul>
+					<li>The Site is not responsible for any decisions or actions taken based on the information provided.</li>
+					<li>The Site is not responsible for the content or security of external websites linked from the Site.</li>
+					<li>The Site shall not be liable for any direct or indirect damages arising from the use of the Site.</li>
+				</ul>
+
+				<h2>5. Advertising and Affiliate Programs</h2>
+				<p>The Site uses third-party advertising services such as Google AdSense, as well as affiliate programs including Amazon Associates.</p>
+				<p>When you purchase products or services through affiliate links in our articles, the Site may receive a referral commission. However, the presence of affiliate links does not influence the content of our reviews.</p>
+
+				<h2>6. Prohibited Activities</h2>
+				<p>The following activities are prohibited when using the Site:</p>
+				<ul>
+					<li>Unauthorized commercial use of the Site's content</li>
+					<li>Actions that interfere with the operation of the Site</li>
+					<li>Actions that cause harm or disadvantage to other users or third parties</li>
+					<li>Any other actions deemed inappropriate by the Site operator</li>
+				</ul>
+
+				<h2>7. Changes to These Terms</h2>
+				<p>The Site may update these Terms as necessary. Updated Terms take effect immediately upon publication on the Site.</p>
+
+				<h2>8. Governing Law</h2>
+				<p>These Terms shall be governed by and construed in accordance with the laws of Japan. Any disputes arising in connection with the Site shall be subject to the exclusive jurisdiction of the courts of Japan.</p>
+
+				<p class="text-sm text-gray-400 mt-8">Effective date: March 16, 2026</p>
+			</div>
+		</main>
+		<Footer />
+	</body>
+</html>
