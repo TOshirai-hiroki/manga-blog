@@ -2,7 +2,9 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import { Image } from 'astro:assets';
 import { SITE_TITLE } from '../consts';
+import iconImage from '../assets/icon.png';
 ---
 
 <!doctype html>
@@ -19,6 +21,17 @@ import { SITE_TITLE } from '../consts';
 				<h2>What is Tokyo Manga Shelf?</h2>
 				<p>Tokyo Manga Shelf is a review site dedicated to manga and books, written from the perspective of a Japanese reader living in Japan. We provide cultural insights and context that you simply won't find in Western reviews.</p>
 
+				<h2>About the Reviewer</h2>
+				<div class="flex items-start gap-4 mb-4 not-prose">
+					<Image src={iconImage} alt="Taka — Tokyo Manga Shelf reviewer" class="w-20 h-20 rounded-full flex-shrink-0 object-cover" width={80} height={80} />
+					<div>
+						<p class="font-bold text-lg m-0">Taka</p>
+						<p class="text-gray-500 text-sm m-0">Tokyo Manga Shelf — Reviewer & Editor</p>
+					</div>
+				</div>
+				<p>Born and raised in Japan, I've been reading manga for over 20 years — from weekly Shonen Jump issues to niche seinen titles. What started as a childhood hobby became a lifelong passion for storytelling in all its forms.</p>
+				<p>I started Tokyo Manga Shelf in 2026 to share the Japanese reader's perspective with international fans. Many cultural references, wordplay, and social commentary in manga are invisible to readers outside Japan, and I wanted to bridge that gap with honest, in-depth reviews.</p>
+
 				<h2>What Makes Us Different</h2>
 				<ul>
 					<li><strong>Japanese Cultural Perspective</strong> — We explain the cultural nuances, historical references, and social context that are second nature to Japanese readers but often missed by international audiences.</li>
@@ -34,8 +47,9 @@ import { SITE_TITLE } from '../consts';
 					<li>Cultural context articles — exploring the real Japan behind the stories</li>
 				</ul>
 
-				<h2>About the Reviewer</h2>
-				<p>A lifelong manga and book enthusiast based in Japan, sharing honest opinions and the cultural stories behind each title. The goal is to bridge the gap between Japanese and international readers.</p>
+				<h2>Editorial Policy</h2>
+				<p>This site is independently operated. Running costs are partially covered by affiliate programs and advertising revenue.</p>
+				<p>To maintain the integrity of our reviews, we provide honest evaluations regardless of affiliate relationships. Our reviews cover both strengths and weaknesses of every title.</p>
 
 				<h2>Contact</h2>
 				<p>Have questions, suggestions, or review requests? Visit the <a href="/contact">contact page</a>.</p>
