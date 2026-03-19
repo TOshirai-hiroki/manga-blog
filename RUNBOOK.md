@@ -9,7 +9,22 @@
 
 ## プラットフォーム
 - **Cloudflare Pages**（Astroで構築、自前ドメイン）
-- プロジェクトパス: `C:\Users\hirok\blogs\manga-blog\`（Astroプロジェクトを後日セットアップ）
+- プロジェクトパス: `C:\Users\hirok\blogs\manga-blog\`
+- 公開URL: https://tokyomangashelf.com
+- GitHubリポジトリ: https://github.com/TOshirai-hiroki/manga-blog
+- 記事数: 25本（レビュー・リスト記事・文化分析）
+- Amazon Associates(US): 承認済み（tag: tokyomangashe-20）
+- AdSense: 審査申請済み（ca-pub-2016529992214438）
+- GA4: G-GRP2NZ3SYG
+- スラッシュコマンド: `/manga-articles N` で記事一括作成可能
+
+---
+
+## 関連ドキュメント
+
+- **`manga-blog/STYLE-GUIDE.md`** — 記事の文体・フォーマット・トーン定義
+- **`manga-blog/ARTICLE-REGISTRY.md`** — 全記事一覧・重複防止・今後の候補
+- **`/manga-articles`** — 記事一括作成コマンド（例: `/manga-articles 5`）
 
 ---
 
@@ -27,12 +42,12 @@
 
 ### Step 2: Claude Codeで記事生成
 1. 読書メモを読み取り
-2. 作品の背景情報をリサーチ
-3. 日本語で原稿を構成
-4. 指定言語に翻訳・文化的アジャスト
-5. `manga-blog/src/content/blog/{lang}/` に記事ファイルを配置
-6. ユーザーが確認・編集
-7. git commit & push → Cloudflare自動デプロイ
+2. WebSearchで作品の背景情報をリサーチ
+3. 英語で記事を直接生成（日本人視点の文化的深掘りを含む）
+4. `manga-blog/src/content/blog/` に記事ファイルを配置
+5. ユーザーが確認・編集
+6. `cd manga-blog && npm run build` でビルド確認
+7. git commit & push → Cloudflare Pages自動デプロイ（manga-blog/内で実行）
 
 ### Step 3: 確認
 - デプロイ後にブログを確認
@@ -92,12 +107,13 @@
 ### Phase 1（Month 1-3）: 広告なし
 - 記事の蓄積に専念（10本以上必要）
 
-### Phase 2（Month 3-4）: Amazon Associate申請
-- 各レビュー記事に表紙画像リンクを設置
-- もしもアフィリエイト経由で申請
+### Phase 2（Month 3-4）: Amazon Associate ✅完了
+- Amazon Associates(US) 承認済み（tag: tokyomangashe-20）
+- 全レビュー記事にAmazon.comアフィリエイトリンク（書影付き）設置済み
+- 180日以内に3件の売上達成が必要（アカウント維持条件）
 
-### Phase 3（Month 4〜）: AdSense申請
-- ディスプレイ広告を追加
+### Phase 3（Month 4〜）: AdSense申請 ✅申請済み
+- AdSenseダッシュボードでサイト追加＆審査申請済み → 審査待ち
 
 ### Phase 4（Month 12〜）: Mediavine移行
 - 月5万セッション達成時に申請（RPMが大幅に向上）
