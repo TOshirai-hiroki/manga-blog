@@ -2,24 +2,51 @@
 const today = new Date();
 ---
 
-<footer class="footer-gradient text-center py-10 mt-12 text-sm">
+<footer class="footer-gradient text-center py-12 mt-16 text-sm relative">
+	<div class="absolute top-0 left-1/2 -translate-x-1/2 w-24 h-[2px] bg-amber-500/60"></div>
 	<div class="max-w-[960px] mx-auto px-4">
-		<div class="flex items-center justify-center gap-2 mb-4">
+		<div class="flex items-center justify-center gap-2 mb-2">
 			<img src="/images/logo-icon.png" alt="" class="w-6 h-6 rounded" />
-			<span class="font-bold text-amber-200 text-base">Tokyo Manga Shelf</span>
+			<span class="font-bold text-amber-200 text-lg" style="font-family: 'Playfair Display', Georgia, serif;">Tokyo Manga Shelf</span>
 		</div>
-		<div class="flex justify-center gap-6 mb-4">
-			<a href="/about" class="text-amber-100/70 hover:text-amber-100 no-underline transition">About</a>
-			<a href="/privacy" class="text-amber-100/70 hover:text-amber-100 no-underline transition">Privacy Policy</a>
-			<a href="/terms" class="text-amber-100/70 hover:text-amber-100 no-underline transition">Terms of Service</a>
-			<a href="/contact" class="text-amber-100/70 hover:text-amber-100 no-underline transition">Contact</a>
+		<p class="text-amber-100/50 text-xs mb-6 max-w-md mx-auto leading-relaxed">
+			A curated journal of manga and book reviews from Japan &mdash; honest opinions, cultural context, and hidden gems.
+		</p>
+		<div class="flex flex-wrap justify-center gap-6 mb-6">
+			<a href="/about" class="footer-link text-amber-100/70 hover:text-amber-100 no-underline transition">About</a>
+			<a href="/privacy" class="footer-link text-amber-100/70 hover:text-amber-100 no-underline transition">Privacy Policy</a>
+			<a href="/terms" class="footer-link text-amber-100/70 hover:text-amber-100 no-underline transition">Terms of Service</a>
+			<a href="/contact" class="footer-link text-amber-100/70 hover:text-amber-100 no-underline transition">Contact</a>
 		</div>
-		<p class="m-0 text-amber-100/50">&copy; {today.getFullYear()} Tokyo Manga Shelf. All rights reserved.</p>
+		<div class="mb-6">
+			<a href="#" class="text-amber-200/50 hover:text-amber-200 no-underline text-xs tracking-widest uppercase transition">
+				&uarr; Back to top
+			</a>
+		</div>
+		<p class="m-0 text-amber-100/40 text-xs">&copy; {today.getFullYear()} Tokyo Manga Shelf. All rights reserved.</p>
 	</div>
 </footer>
 
 <style>
 	.footer-gradient {
 		background: linear-gradient(135deg, #1c1917 0%, #292524 50%, #44403c 100%);
+	}
+	.footer-link {
+		position: relative;
+		font-size: 0.8125rem;
+		letter-spacing: 0.03em;
+	}
+	.footer-link::after {
+		content: '';
+		position: absolute;
+		bottom: -2px;
+		left: 0;
+		width: 0;
+		height: 1px;
+		background: #fbbf24;
+		transition: width 0.3s ease;
+	}
+	.footer-link:hover::after {
+		width: 100%;
 	}
 </style>
