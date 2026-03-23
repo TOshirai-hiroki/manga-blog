@@ -18,9 +18,9 @@ memeCopyright: '© Hirohiko Araki / Shueisha'
 
 In the taxonomy of Japanese internet phrases, there exists a hierarchy. At the bottom, you have simple reactions — the "www" laughs, the emoji spam, the unremarkable. In the middle, you find the quotable lines that circulate for a season before fading. And at the very top, sitting alone on a throne it did not ask for and would probably refuse if offered, there are two words: "daga kotowaru" (だが断る).
 
-![Rohan Kishibe's legendary "Daga Kotowaru" — the most powerful refusal in manga history](/images/meme/daga-kotowaru.jpg)
+**[📖 See the original panel on Know Your Meme →](https://knowyourmeme.com/memes/but-i-refuse-%E3%81%A0%E3%81%8C%E6%96%AD%E3%82%8B)**
 
-*From JoJo's Bizarre Adventure Part 4 by Hirohiko Araki. © Hirohiko Araki / Shueisha. Panel shared via [alu.jp](https://alu.jp), an authorized manga panel sharing platform.*
+*From JoJo's Bizarre Adventure Part 4 by Hirohiko Araki. © Hirohiko Araki / Shueisha.*
 
 The phrase belongs to Rohan Kishibe, a manga artist character in Hirohiko Araki's *JoJo's Bizarre Adventure Part 4: Diamond Is Unbreakable*. The situation is this: Rohan is trapped by an enemy Stand called Highway Star, which is systematically draining his life force. The enemy offers him a deal — lure Josuke Higashikata into the trap, and Rohan goes free. This is, by any rational measure, an excellent deal. Rohan personally despises Josuke. He has no tactical reason to refuse. Every incentive points toward acceptance.
 

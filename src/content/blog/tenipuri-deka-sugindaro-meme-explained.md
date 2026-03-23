@@ -24,9 +24,9 @@ In Chapter 289 of *New Prince of Tennis* — the sequel series, which exists bec
 
 "Too big, isn't he..."
 
-![The infamous "too big" panel from New Prince of Tennis — a tennis manga where players grow to building size](/images/meme/tenipuri-too-big.jpg)
+**[📖 See the original scene explained on Pixiv Encyclopedia →](https://dic.pixiv.net/a/%E3%83%87%E3%82%AB%E9%81%8E%E3%81%8E%E3%82%93%E3%81%A0%E3%82%8D%E2%80%A6)**
 
-*From New Prince of Tennis by Takeshi Konomi. © Takeshi Konomi / Shueisha. Panel shared via [alu.jp](https://alu.jp), an authorized manga panel sharing platform.*
+*From New Prince of Tennis by Takeshi Konomi. © Takeshi Konomi / Shueisha.*
 
 Not "what is happening." Not "this violates the laws of physics and the ITF rulebook simultaneously." Just a quiet, slightly exasperated acknowledgment that his opponent is now the size of an apartment complex. The tone is that of a man noticing his train is two minutes late.
 

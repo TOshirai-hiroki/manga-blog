@@ -20,9 +20,9 @@ There are approximately 7,000 languages spoken on Earth. The vast majority of hu
 
 The sentence is "omae wa mou shindeiru" (お前はもう死んでいる). It means "you are already dead." It comes from *Fist of the North Star*, a manga about a man who pokes people and they explode. The response — "nani!?" (何!?) — has been screamed, typed, remixed, and bass-boosted into every corner of the internet since 2017. It is, by any reasonable metric, the most successful Japanese language instruction ever delivered. The teacher just happens to be a post-apocalyptic martial artist who communicates exclusively through violence.
 
-![Kenshiro declaring "You are already dead" — the manga line that taught the world Japanese](/images/meme/omae-wa-mou-shindeiru.jpg)
+**[📖 See the original panel on Know Your Meme →](https://knowyourmeme.com/memes/you-are-already-dead-omae-wa-mou-shindeiru)**
 
-*From Fist of the North Star by Tetsuo Hara and Buronson. © Tetsuo Hara, Buronson / Shueisha. Panel shared via [alu.jp](https://alu.jp), an authorized manga panel sharing platform.*
+*From Fist of the North Star by Tetsuo Hara and Buronson. © Tetsuo Hara, Buronson / Shueisha.*
 
 ## The Anatomy of a Death Notification
 

@@ -18,9 +18,9 @@ memeCopyright: '© Keisuke Itagaki / Akita Shoten'
 
 Every language has a phrase for telling someone they are wrong without technically saying they are wrong. English has "Bless your heart." French has an entire tonal register. Japanese has a sentence from a martial arts manga in which a teenager once fought an earthquake, and somehow this is the version that feels the most intellectually devastating.
 
-![Baki's iconic "there was a time I thought that way too" panel from the martial arts tournament arc](/images/meme/baki-there-was-a-time.jpg)
+**[📖 See the original panel explained on Twicomi →](https://twicomi.com/manga/oginomatomewiki/1283892803504750593)**
 
-*From Baki by Keisuke Itagaki. © Keisuke Itagaki / Akita Shoten. Panel shared via [alu.jp](https://alu.jp), an authorized manga panel sharing platform.*
+*From Baki by Keisuke Itagaki. © Keisuke Itagaki / Akita Shoten.*
 
 The phrase is 「そんなふうに考えていた時期が俺にもありました」 — "sonna fuu ni kangaeteita jiki ga ore ni mo arimashita" — and it translates roughly to "There was a time when I thought that way too." It originates from Chapter 223 of *Baki*, Keisuke Itagaki's monument to the proposition that all human conflict can be resolved through increasingly implausible hand-to-hand combat. During a Chinese martial arts tournament, someone observes that boxing is limited because it lacks kicks. Baki, the protagonist, agrees — he too once thought that way. Then he redefines the act of moving one's feet across the ground as "kicking the earth," thereby reclassifying all of footwork as a form of kicking.
 

@@ -18,7 +18,7 @@ memeCopyright: '© Hajime Isayama / Kodansha'
 
 There is a moment in manga history where a child invents his own foreign policy. It occurs on the opening pages of *Attack on Titan*, Chapter 1, titled "To You, 2,000 Years From Now" — a title that sounds like an academic paper and, as it turns out, basically is one.
 
-![Young Eren Yeager screaming his vow of extermination — military vocabulary from a ten-year-old](/images/meme/kuchiku-shite-yaru.jpg)
+**[📖 See the original panel on alu.jp →](https://alu.jp/series/%E9%80%B2%E6%92%83%E3%81%AE%E5%B7%A8%E4%BA%BA/crop/ZkejtleARdlfHdZkgfV0)**
 
 *From Attack on Titan by Hajime Isayama. © Hajime Isayama / Kodansha. Panel shared via [alu.jp](https://alu.jp), an authorized manga panel sharing platform.*
 
