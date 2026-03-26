@@ -8,7 +8,7 @@ affiliate: true
 rating: 9
 mangaAuthor: 'Tatsuya Endo'
 mangaTitleJa: 'SPY×FAMILY'
-amazonASIN: '1974715434'
+amazonASIN: '1974715469'
 amazonTitle: 'Spy x Family, Vol. 1'
 ---
 

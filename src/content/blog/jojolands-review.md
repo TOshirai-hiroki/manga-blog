@@ -8,8 +8,8 @@ affiliate: true
 rating: 8
 mangaAuthor: 'Hirohiko Araki'
 mangaTitleJa: 'ザ・ジョジョランズ'
-amazonASIN: '1974743519'
-amazonTitle: 'The JOJOLands, Vol. 1'
+amazonASIN: '4088836065'
+amazonTitle: 'THE JOJOLANDS 1 (Japanese Edition)'
 ---
 
 ## Sixty-Five and Starting Over

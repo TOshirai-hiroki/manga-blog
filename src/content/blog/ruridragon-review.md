@@ -8,7 +8,7 @@ affiliate: true
 rating: 8
 mangaAuthor: 'Masaoki Shindō'
 mangaTitleJa: 'ルリドラゴン'
-amazonASIN: '1974740463'
+amazonASIN: '1974738310'
 amazonTitle: 'RuriDragon, Vol. 1'
 ---
 
