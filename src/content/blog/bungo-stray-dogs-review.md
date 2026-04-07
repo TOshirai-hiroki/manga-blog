@@ -10,7 +10,6 @@ mangaAuthor: 'Kafka Asagiri (story), Sango Harukawa (art)'
 mangaTitleJa: '文豪ストレイドッグス'
 amazonASIN: '0316554707'
 amazonTitle: 'Bungo Stray Dogs, Vol. 1'
-heroImage: '../../images/blog/2026-04-12-bungo-stray-dogs-review.png'
 ---
 
 ## The Classroom That Never Leaves You

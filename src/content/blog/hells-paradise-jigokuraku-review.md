@@ -10,7 +10,6 @@ mangaAuthor: 'Yuji Kaku'
 mangaTitleJa: '地獄楽'
 amazonASIN: '1974713202'
 amazonTitle: "Hell's Paradise: Jigokuraku, Vol. 1"
-heroImage: '../../images/blog/2026-04-09-hells-paradise-jigokuraku-review.png'
 ---
 
 ## A Flower That Should Not Grow Here

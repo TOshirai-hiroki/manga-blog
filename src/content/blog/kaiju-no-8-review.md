@@ -10,7 +10,6 @@ mangaAuthor: 'Naoya Matsumoto'
 mangaTitleJa: '怪獣8号'
 amazonASIN: '1974725987'
 amazonTitle: 'Kaiju No. 8, Vol. 1'
-heroImage: '../../images/blog/2026-04-08-kaiju-no-8-review.png'
 ---
 
 ## The Body That Does Not Belong to You
