@@ -10,6 +10,7 @@ mangaAuthor: 'Ryoko Kui'
 mangaTitleJa: 'ダンジョン飯'
 amazonASIN: '0316471852'
 amazonTitle: 'Delicious in Dungeon, Vol. 1'
+heroImage: '../../images/blog/2026-04-11-dungeon-meshi-review.png'
 ---
 
 ## The Dungeon Smells Like Miso

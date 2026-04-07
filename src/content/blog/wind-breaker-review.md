@@ -10,6 +10,7 @@ mangaAuthor: 'Satoru Nii'
 mangaTitleJa: 'ウィンドブレイカー'
 amazonASIN: '1646518357'
 amazonTitle: 'Wind Breaker, Vol. 1'
+heroImage: '../../images/blog/2026-04-10-wind-breaker-review.png'
 ---
 
 ## The Boy Who Moved to a Town That Fights Back
