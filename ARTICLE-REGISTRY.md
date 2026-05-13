@@ -3,11 +3,11 @@
 全記事の一覧。新規記事作成時に重複を防ぎ、内部リンクの参照にも使う。
 記事を追加・削除したら必ずこのファイルを更新すること。
 
-最終更新: 2026-03-29
+最終更新: 2026-05-13
 
 ---
 
-## レビュー記事（26本）
+## レビュー記事（46本）
 
 | # | ファイル名 | 作品名 | 作品名(JA) | 作者 | 評価 | 公開日 | 主な文化的切り口 |
 |---|-----------|--------|-----------|------|------|--------|-----------------|
@@ -37,6 +37,26 @@
 | 24 | `jojolands-review.md` | The JoJoLands (JoJo Part 9) | ザ・ジョジョランズ | Hirohiko Araki | 8 | 2026-03-26 | ハワイと日本、盗みの美学、職人気質 |
 | 25 | `kingdom-review.md` | Kingdom | キングダム | Yasuhisa Hara | 9 | 2026-03-27 | 中華モノ、大将の器、発見ギャップ |
 | 26 | `vinland-saga-review.md` | Vinland Saga | ヴィンランド・サガ | Makoto Yukimura | 10 | 2026-03-28 | 不殺生、武士道×ヴァイキング、本物の戦士 |
+| 27 | `kaiju-no-8-review.md` | Kaiju No. 8 | 怪獣8号 | Naoya Matsumoto | 8 | 2026-04-08 | 労働不安、自分らしさ、怪獣の内面化、恥の文化 |
+| 28 | `hells-paradise-jigokuraku-review.md` | Hell's Paradise | 地獄楽 | Yūji Kaku | 9 | 2026-04-09 | 贖罪と懺悔、地獄極楽の共在、道教×仏教 |
+| 29 | `wind-breaker-review.md` | Wind Breaker | ウィンドブレイカー | Satoru Nii | 8 | 2026-04-10 | ヤンキー文化の再考、防衛としての強さ、古里コミュニティ |
+| 30 | `dungeon-meshi-review.md` | Dungeon Meshi | ダンジョン飯 | Ryoko Kui | 9 | 2026-04-11 | 食の尊敬心、もったいない、職人精神、バラエティ番組 |
+| 31 | `bungo-stray-dogs-review.md` | Bungo Stray Dogs | 文豪ストレイドッグス | Kafka Asagiri / Sango Harukawa | 8 | 2026-04-12 | 文学とアイデンティティ、集団主義、文豪の武器化 |
+| 32 | `mashle-magic-muscles-review.md` | Mashle: Magic and Muscles | マッシュル -MASHLE- | Hajime Komoto | 8 | 2026-04-15 | 能力主義批判・受験戦争、素直の美徳 |
+| 33 | `mononogatari-malevolent-spirits-review.md` | Malevolent Spirits: Mononogatari | もののがたり | Onigunsou | 8 | 2026-04-16 | 付喪神・神道、世代間トラウマ、家制度 |
+| 34 | `too-many-losing-heroines-review.md` | Too Many Losing Heroines! | 負けヒロインが多すぎる！ | Takibi Amamori / Imigimuru | 8 | 2026-04-17 | 負けヒロイン・片割れ意識、裏女子 |
+| 35 | `sakugan-labyrinth-marker-review.md` | Sakugan | サクガン | Nekotaro Inui / Keisuke Sato | 8 | 2026-04-18 | 親バカ、失われた世代、夢と地下 |
+| 36 | `insomniacs-after-school-review.md` | Insomniacs After School | 放課後インソムニア | Makoto Ojiro | 8 | 2026-04-19 | 眠り・居眠り文化、隠れ家、間（ま） |
+| 37 | `touge-oni-kami-worship-japanese-spirituality.md` | Touge Oni: Primal Gods in Ancient Times | 峠鬼 | Kenji Tsurubuchi | 9 | 2026-04-20 | 7世紀ヤマト・神道・神祇制度、役行者、ケガレ |
+| 38 | `jaadugar-witch-mongolia-female-knowledge-power.md` | A Witch's Life in Mongol | 天幕のジャードゥーガル | Tomato Soup | 9 | 2026-04-21 | 中世イスラム×モンゴル帝国・女性の知と権力、Pax Mongolica |
+| 39 | `firefly-wedding-meiji-era-female-agency-romance.md` | Firefly Wedding | ホタルの嫁入り | Oreco Tachibana | 9 | 2026-04-22 | 明治時代・華族制度・ホタルの象徴・未亡人制度 |
+| 40 | `in-clear-moonlit-dusk-gender-identity-shoujo.md` | In the Clear Moonlit Dusk | うるわしの宵の月 | Mika Yamamori | 8 | 2026-04-23 | 美少年文化・宝塚・世間・見られるアイデンティティ |
+| 41 | `home-at-horizon-sentou-bathhouse-found-family-culture.md` | Home at the Horizon (おかえり水平線) | おかえり水平線 | Taiyō Watabe | 8 | 2026-04-24 | 銭湯文化・裸の付き合い・ファウンドファミリー |
+| 42 | `medalist-figure-skating-doryoku-repair.md` | Medalist | メダリスト | TSURUMAIKADA | 9 | 2026-05-13 | 努力・根性ideology脱構築・不登校・コーチ文化・才能と挫折 |
+| 43 | `marriagetoxin-konkatsu-ie-seido-comedy.md` | MARRIAGETOXIN | マリィジトキシン | Joumyaku (story), Mizuki Yoda (art) | 8 | 2026-05-14 | 家制度・婚活産業・毒の仏教的両義性・本音と建前 |
+| 44 | `red-river-shoujo-isekai-anatolia-miko.md` | Red River | 天は赤い河のほとり | Chie Shinohara | 9 | 2026-05-15 | 異郷観・巫女/人身御供・1995年の強い女性shoujo・歴史考証 |
+| 45 | `summer-hikaru-died-inaka-tsukimono-folk-horror.md` | The Summer Hikaru Died | 光が死んだ夏 | Mokumokuren | 9 | 2026-05-16 | 田舎の怖さ・憑き物/憑依・氏神/産土神・クィア読解 |
+| 46 | `chihayafuru-hyakunin-isshu-karuta-dou.md` | Chihayafuru | ちはやふる | Yuki Suetsugu | 10 | 2026-05-17 | 百人一首・道(dou)としてのかるた・1000年の女性文学継承 |
 
 ## ガイド・文化記事（4本）
 
@@ -51,10 +71,10 @@
 
 ## 統計
 
-- **総記事数**: 35本（レビュー26 + ガイド4 + ミーム6）
-- **評価分布**: 10/10 × 5本 / 9/10 × 9本 / 8/10 × 10本 / 7/10 × 1本
-- **デモグラフィック**: 少年15 / 青年13 / 混合2
-- **ジャンル**: バトル・アクション / ダークファンタジー / ファンタジー / スポーツ / ミステリー / コメディ / ドラマ / 伝統芸能 / 西部劇 / 心理サスペンス / ロマンス / 日常系 / 歴史 / ヴァイキング
+- **総記事数**: 55本（レビュー46 + ガイド4 + ミーム6）※ベスト記事含む（リスト記事含む）
+- **評価分布**: 10/10 × 6本 / 9/10 × 17本 / 8/10 × 21本 / 7/10 × 1本
+- **デモグラフィック**: 少年22 / 青年21 / 女性3 / 少女2 / 混合2
+- **ジャンル**: バトル・アクション / ダークファンタジー / ファンタジー / スポーツ / ミステリー / コメディ / ドラマ / 伝統芸能 / 西部劇 / 心理サスペンス / ロマンス / 日常系 / 歴史 / ヴァイキング / 怪獣 / 食 / 文芸 / 不良
 
 ---
 
@@ -87,6 +107,26 @@
 - The JoJoLands / JoJo Part 9（ザ・ジョジョランズ）
 - Vinland Saga（ヴィンランド・サガ）
 - Witch Hat Atelier（とんがり帽子のアトリエ）
+- Bungo Stray Dogs（文豪ストレイドッグス）
+- Dungeon Meshi / Delicious in Dungeon（ダンジョン飯）
+- Hell's Paradise / Jigokuraku（地獄楽）
+- Insomniacs After School（放課後インソムニア）
+- Kaiju No. 8（怪獣8号）
+- Malevolent Spirits: Mononogatari（もののがたり）
+- Mashle: Magic and Muscles（マッシュル）
+- Sakugan（サクガン）
+- Too Many Losing Heroines!（負けヒロインが多すぎる！）
+- Wind Breaker（ウィンドブレイカー）
+- Touge Oni: Primal Gods in Ancient Times（峠鬼）
+- A Witch's Life in Mongol / Jaadugar（天幕のジャードゥーガル）
+- Firefly Wedding（ホタルの嫁入り）
+- In the Clear Moonlit Dusk（うるわしの宵の月）
+- Home at the Horizon（おかえり水平線）
+- Medalist（メダリスト）
+- MARRIAGETOXIN（マリィジトキシン）
+- Red River / Sora wa Akai Kawa no Hotori（天は赤い河のほとり）
+- The Summer Hikaru Died（光が死んだ夏）
+- Chihayafuru（ちはやふる）
 
 ### ミーム記事でカバー済みの作品（ミーム記事は同一作品の複数記事OK）
 - Attack on Titan（進撃の巨人）
